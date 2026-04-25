@@ -61,6 +61,8 @@ My ultimate goal is to become a *Full-Stack Hardware-Software Engineer*—unders
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,35 +119,4 @@ Drop me a message on [LinkedIn](https://www.linkedin.com/in/steven-nataniel-kasi
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
-
-
-<!-- CHESS:START -->
-<div align="center">
-
-### ♟️ Community Chess
-
-> Play chess directly in my README! Pick a move below to open an issue.
-
-|   | a | b | c | d | e | f | g | h |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
-| **6** | · | · | · | · | · | · | · | · |
-| **5** | · | · | · | · | · | · | · | · |
-| **4** | · | · | · | · | · | · | · | · |
-| **3** | · | · | · | · | · | · | · | · |
-| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
-| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
-
-**Turn:** ⬜ White | **Move:** 0
-
-<details>
-<summary>🎯 <b>Click to make a move</b></summary>
-<br/>
-
-[`a3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ca2a3&body=Playing+move:+a3) · [`a4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ca2a4&body=Playing+move:+a4) · [`Na3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb1a3&body=Playing+move:+Na3) · [`Nc3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb1c3&body=Playing+move:+Nc3) · [`b3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb2b3&body=Playing+move:+b3) · [`b4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb2b4&body=Playing+move:+b4) · [`c3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cc2c3&body=Playing+move:+c3) · [`c4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cc2c4&body=Playing+move:+c4) · [`d3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cd2d3&body=Playing+move:+d3) · [`d4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cd2d4&body=Playing+move:+d4) · [`e3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ce2e3&body=Playing+move:+e3) · [`e4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ce2e4&body=Playing+move:+e4) · [`f3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cf2f3&body=Playing+move:+f3) · [`f4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cf2f4&body=Playing+move:+f4) · [`Nf3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg1f3&body=Playing+move:+Nf3) · [`Nh3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg1h3&body=Playing+move:+Nh3) · [`g3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg2g3&body=Playing+move:+g3) · [`g4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg2g4&body=Playing+move:+g4) · [`h3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ch2h3&body=Playing+move:+h3) · [`h4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ch2h4&body=Playing+move:+h4)
-
-</details>
-
-</div>
-<!-- CHESS:END -->
+
