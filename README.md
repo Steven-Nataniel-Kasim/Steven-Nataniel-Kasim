@@ -1,393 +1,126 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  HERO / BANNER SECTION                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Steven%20Nataniel%20Kasim&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20%26%20Semiconductor%20Enthusiast&descAlignY=60&descFontColor=a78bfa&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=AI+%2B+Hardware+%3D+The+Future+I'm+Building+%F0%9F%A7%A0;Engineering+Student+with+a+Vision+%F0%9F%94%AD;Bridging+Software+Intelligence+%26+Silicon+%F0%9F%92%8E;Turning+Curiosity+into+Code+%E2%9A%99%EF%B8%8F;Learning+Today%2C+Innovating+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d0d1a&height=180&section=header&text=Hey,%20I'm%20Stev%20👋&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Engineering%20Student%20→%20Future%20AI%20%26%20Semiconductor%20Engineer&descAlignY=68&descFontSize=15&descFontColor=818cf8" width="100%"/>
 
 <br/>
 
-<!-- Profile Views & Visitors Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Steven-Nataniel-Kasim&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Steven-Nataniel-Kasim?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/Steven-Nataniel-Kasim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Building+at+the+intersection+of+AI+%2B+Silicon.;Not+just+using+AI+—+understanding+how+it+runs.;Curious+by+nature.+Engineer+by+ambition.)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Steven-Nataniel-Kasim&style=flat-square&color=818cf8&label=profile+views)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   NAVIGATION                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## About Me
 
-<div align="center">
+I'm **Stev** — an engineering student from Indonesia with a sharp focus on where software intelligence meets physical hardware.
 
-**[ [⚡ About Me](#-about-me) · [🛠 Tech Stack](#-tech-stack) · [🔭 Current Focus](#-current-focus) · [🌌 Future Goals](#-future-goals) · [📖 My Story](#-my-tech-journey) · [🎮 Choose Your Path](#-interactive-choose-your-path) · [📊 Stats](#-github-stats) · [📬 Connect](#-lets-connect) ]**
+I don't just want to *use* AI. I want to understand the transistors it runs on.
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## ⚡ About Me
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd3bWN6M3k1Y3BheWhkYzJ1aXcwajdqejdpazMyc3VpcW1hbTVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:12px; margin-left:20px"/>
-
-```python
-class StevenNatanielKasim:
-    """
-    An engineering student who believes
-    intelligence belongs at the silicon level.
-    """
-    
-    role       = "Engineering Student"
-    location   = "Indonesia 🇮🇩"
-    
-    interests  = [
-        "Artificial Intelligence",
-        "Semiconductor Engineering",
-        "AI Hardware Acceleration",
-        "Efficient Computing Systems",
-    ]
-    
-    currently  = {
-        "learning" : "How AI works at the hardware level",
-        "exploring": "Neural network accelerators & chip design",
-        "building" : "A strong engineering foundation",
-    }
-    
-    superpower = "Connecting software intelligence to silicon"
-    fun_fact   = "I believe the next AI revolution lives inside a chip 💎"
-    
-    def greet(self):
-        return "Let's build the future, one transistor at a time. 🔬"
-
-me = StevenNatanielKasim()
-print(me.greet())
-```
-
-> *"Any sufficiently advanced semiconductor is indistinguishable from magic — until you're the engineer who built it."*
-
-<br clear="right"/>
+- 🎓 Engineering Student | Indonesia
+- 🧠 Obsessed with **AI** and **Semiconductor Technology**
+- 🔬 Exploring how intelligence is computed at the chip level
+- 📈 Early stage — building foundations that compound
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## Skills
 
-## 🛠 Tech Stack
+**Currently working with:**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=818cf8)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=818cf8)
+![VS Code](https://img.shields.io/badge/VS%20Code-1e1e2e?style=flat-square&logo=visual-studio-code&logoColor=818cf8)
+![Jupyter](https://img.shields.io/badge/Jupyter-1e1e2e?style=flat-square&logo=jupyter&logoColor=818cf8)
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+**Learning & growing into:**
 
-### 🤖 AI / ML Ecosystem
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=a5b4fc)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e2e?style=flat-square&logo=tensorflow&logoColor=a5b4fc)
+![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=flat-square&logo=linux&logoColor=a5b4fc)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-1e1e2e?style=flat-square&logoColor=a5b4fc)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-### 🏗️ Domain Knowledge (In Progress)
-![VLSI](https://img.shields.io/badge/VLSI%20Design-6D28D9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNUg5VjhIMTF2OXptNCAwaC0yVjhoMnY5eiIvPjwvc3ZnPg==&logoColor=white)
-![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-7C3AED?style=for-the-badge&logoColor=white)
-![Digital Systems](https://img.shields.io/badge/Digital%20Systems-4F46E5?style=for-the-badge&logoColor=white)
-
-</div>
+> Python fundamentals — variables, loops, functions — and working my way up to ML and hardware-level computing.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🔭 Current Focus
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8yYzdqeHBnb3Z6YjlpaHBkczlrcm1rNHdydXQ5enJ0aHZhNGVuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" width="80"/>
-      <br/><b>🧠 AI at Hardware Level</b>
-      <br/><sub>Understanding how neural networks map to physical circuits</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhnNGI5Z2kxeW83amJidGo3cjcxaGdzMzN0MHB5dGhtbHA1cGtyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlPystfePnAI3G8/giphy.gif" width="80"/>
-      <br/><b>⚡ Computational Efficiency</b>
-      <br/><sub>Making AI faster, leaner, and more energy-efficient</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV3bnN4c3k0OHRrNHdvNHlzbzV2bXBzM2czaWxpamljMWkwOGI0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
-      <br/><b>🔬 System-Level Thinking</b>
-      <br/><sub>Full-stack view: from algorithm down to transistor</sub>
-    </td>
-  </tr>
-</table>
-</div>
+## Current Focus
 
 ```
-📡 Currently deep-diving into:
-├── 🧬  Machine Learning fundamentals & model architecture
-├── 💡  How GPUs and NPUs accelerate AI workloads
-├── 🔧  Python for scientific computing & data pipelines
-├── 📐  Digital logic & computer architecture basics
-└── 🌐  The AI semiconductor landscape (NVIDIA, Intel, TSMC, ...)
+🧠  Machine Learning fundamentals — how models think
+⚡  GPU & AI accelerator architecture — how models run
+🔧  Python for data and computation
+📐  Digital logic & computer organization
+🌐  The global AI semiconductor landscape (NVIDIA, TSMC, Intel)
 ```
+
+My north star: **understanding AI from algorithm to atom.**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  FUTURE GOALS                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## Projects
 
-## 🌌 Future Goals
+> Most of my current work is learning-based. Real projects are being built.
 
-<div align="center">
-
-> *"I don't just want to use AI — I want to build the hardware it runs on."*
-
-</div>
-
-| 🎯 Milestone | 🗺️ Path | ⏳ Horizon |
+| Project | Status | Description |
 |---|---|---|
-| 🤖 Master AI/ML fundamentals | Deep learning, computer vision, NLP | Near-term |
-| ⚙️ Chip-level AI understanding | Hardware accelerators, GPU architecture | Mid-term |
-| 🏭 Semiconductor R&D exposure | Industry internship / research lab | Mid-term |
-| 🧪 Contribute to AI hardware | Co-design algorithms + chips | Long-term |
-| 🌍 Shape the future of efficient AI | Bridging intelligence & silicon | Vision |
+| 🧬 `ml-foundations` | 🔨 In Progress | Core ML concepts implemented from scratch in Python |
+| ⚡ `ai-hardware-notes` | 📖 Planned | Research notes on AI chip design & accelerators |
+| 🌐 `efficient-inference` | 💡 Idea | Exploring model optimization for edge deployment |
+| 🔬 `silicon-meets-ai` | 💡 Idea | Mapping AI workloads to hardware constraints |
+
+---
+
+## Goals
+
+| Timeframe | Target |
+|---|---|
+| **Now** | Master Python · Understand ML fundamentals |
+| **Next** | Dive into hardware architecture · GPU internals |
+| **Then** | Semiconductor R&D internship or research position |
+| **Ultimately** | Engineer AI systems that are efficient at the silicon level |
+
+> *"I want to be the engineer who bridges the gap between the model and the machine."*
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-```
- ╔════════════════════════════════════════════════════╗
- ║  The dream:  Design the chip that runs the model   ║
- ║  that changes the world. No pressure. 🤓           ║
- ╚════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  MY TECH JOURNEY                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📖 My Tech Journey
-
-> *Every great engineer was once a curious student. Here's mine.*
-
-```
-🌱  Chapter 1 — "The Spark"
-    ─────────────────────────────────────────────────────
-    Started with Python. Wrote my first loop. Felt like a wizard.
-    (It printed "Hello World". I was unreasonably proud.)
-
-🔍  Chapter 2 — "The Rabbit Hole"
-    ─────────────────────────────────────────────────────
-    Discovered machine learning. Realized AI wasn't magic —
-    it was math, data, and a LOT of matrix multiplication.
-
-⚡  Chapter 3 — "The Deeper Question"
-    ─────────────────────────────────────────────────────
-    Asked: "But HOW does a GPU run all this so fast?"
-    Fell in love with computer architecture and semiconductor physics.
-
-🚀  Chapter 4 — "The Mission" (Current)
-    ─────────────────────────────────────────────────────
-    Mastering the intersection of AI and hardware.
-    Building the knowledge stack to engineer tomorrow's chips.
-
-🌌  Chapter 5 — "To Be Written..."
-    ─────────────────────────────────────────────────────
-    [ This chapter is still being compiled. Stay tuned. ]
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              INTERACTIVE: CHOOSE YOUR PATH              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🎮 Interactive: Choose Your Path
-
-> *👾 Welcome to the Tech Journey. This is a choose-your-own-adventure in markdown.*
-> *Pick your path and see where it leads!*
-
----
-
-### 🧭 You are an engineer at a crossroads. What calls to you?
-
-**Option A** → [🤖 I'm drawn to intelligence — AI & Machine Learning](#-path-a--the-ai-architect)
-
-**Option B** → [💎 I'm drawn to hardware — Chips & Silicon](#-path-b--the-silicon-craftsman)
-
-**Option C** → [⚡ I want BOTH — AI + Hardware together](#-path-c--the-convergence-engineer)
-
----
-
-#### 🤖 Path A — The AI Architect
-
-You chose **software intelligence**. You'll train models, design architectures, and teach machines to see, understand, and reason.
-
-**Your toolkit:** Python · TensorFlow · PyTorch · Transformers · Data Pipelines
-
-**Your quest:** Build models so efficient, they run on a watch. ⌚
-
-> 🔗 *[Back to crossroads](#-you-are-an-engineer-at-a-crossroads-what-calls-to-you)*
-
----
-
-#### 💎 Path B — The Silicon Craftsman
-
-You chose **hardware mastery**. You'll design logic gates, tape out chips, and craft the physical substrate of computation.
-
-**Your toolkit:** VHDL/Verilog · VLSI · EDA Tools · Physics · Photolithography
-
-**Your quest:** Design a chip so small, you need a microscope to see your success. 🔬
-
-> 🔗 *[Back to crossroads](#-you-are-an-engineer-at-a-crossroads-what-calls-to-you)*
-
----
-
-#### ⚡ Path C — The Convergence Engineer
-
-You chose **both**. You understand the algorithm AND the architecture. You speak Python at the top and CMOS at the bottom.
-
-**Your toolkit:** *Everything in Path A + Path B* + System-level optimization
-
-**Your quest:** Design an AI accelerator chip that makes the world's best model run 10x faster. 🚀
-
-> This is Steven's path. 😎
-
-> 🔗 *[Back to crossroads](#-you-are-an-engineer-at-a-crossroads-what-calls-to-you)*
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Steven-Nataniel-Kasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Nataniel-Kasim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Steven-Nataniel-Kasim&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=818cf8&icon_color=818cf8&text_color=cbd5e1&ring_color=818cf8" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Nataniel-Kasim&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=818cf8&text_color=cbd5e1" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Steven-Nataniel-Kasim&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Steven-Nataniel-Kasim&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Steven-Nataniel-Kasim&hide_border=true&background=0d0d1a&stroke=818cf8&ring=818cf8&fire=c7d2fe&currStreakLabel=818cf8&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                QUOTE / PHILOSOPHY                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 💡 Engineering Philosophy
+## Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="400">
-
-**On AI:**
-> *"Artificial intelligence is not a destination —*
-> *it's an infrastructure problem waiting for the right chip."*
-
-</td>
-<td align="center" width="400">
-
-**On Learning:**
-> *"The best engineers are the ones who never stopped*
-> *asking 'but why does this work at the hardware level?'"*
-
-</td>
-</tr>
-</table>
-
----
-
-```
- Favorite equation:    Better Hardware × Smarter Algorithms = Infinite Possibility
- Current status:       Solving for both variables simultaneously 📐
-```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   LET'S CONNECT                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📬 Let's Connect
-
-<div align="center">
-
-> *Whether you're a recruiter, a fellow engineer, or just someone passionate about AI and chips —*
-> *I'd love to connect, collaborate, or just geek out about transistors.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/steven-nataniel-kasim)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Steven-Nataniel-Kasim)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=818cf8)](https://linkedin.com/in/steven-nataniel-kasim)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=818cf8)](https://github.com/Steven-Nataniel-Kasim)
+[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=818cf8)](mailto:your@email.com)
 
 <br/>
 
-### 🚀 Call to Action
-
-```
-🔍 Check out my projects below  ↓
-🌟 Star something that interests you
-🤝 Let's collaborate on AI / hardware projects
-💬 Open to internship, research, and networking opportunities
-```
-
-<br/>
-
-**If you're building the future of AI hardware — let's talk. Seriously.** 🤝
+Open to: **internships · research collaborations · conversations about AI & chips**
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=See%20you%20at%20the%20frontier.%20%F0%9F%9A%80&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1a3e,100:0d0d1a&height=100&section=footer&text=Building+the+future+—+one+layer+at+a+time.&fontSize=13&fontColor=818cf8&fontAlignY=65" width="100%"/>
 
 </div>
-
-<!-- Last updated: 2026 -->
