@@ -7,18 +7,18 @@
 
 <br/>
 
-<!-- BADGES ROW -->
-[![GitHub Stars](https://img.shields.io/github/stars/Steven-Nataniel-Kasim?affiliations=OWNER&style=for-the-badge&color=f5c542&labelColor=0d1117&logo=github&label=Stars%20Earned)](https://github.com/Steven-Nataniel-Kasim)
-![Profile Views](https://komarev.com/ghpvc/?username=Steven-Nataniel-Kasim&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/Steven-Nataniel-Kasim?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/Steven-Nataniel-Kasim?tab=followers)
+<!-- BADGES -->
+[![Stars](https://img.shields.io/github/stars/Steven-Nataniel-Kasim?affiliations=OWNER&style=for-the-badge&color=f5c542&labelColor=0d1117&logo=github&label=Stars+Earned)](https://github.com/Steven-Nataniel-Kasim)
+![Views](https://komarev.com/ghpvc/?username=Steven-Nataniel-Kasim&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS)
+[![Followers](https://img.shields.io/github/followers/Steven-Nataniel-Kasim?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/Steven-Nataniel-Kasim?tab=followers)
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -32,17 +32,17 @@ class Steven:
     name     = "Steven Nataniel Kasim"
     role     = "Digital Engineering Student"
     location = "Indonesia 🇮🇩"
-    
+
     languages = ["Python", "VHDL", "Verilog"]
     interests = ["Artificial Intelligence", "Semiconductor Technology"]
-    
+
     currently_learning = [
         "How AI runs at the hardware level",
         "FPGA design & digital systems",
         "Machine Learning fundamentals",
     ]
-    
-    motto = "I don't just want to use AI — I want to build the chip it runs on."
+
+    motto = "I don't just use AI — I want to build the chip it runs on."
 ```
 
 ---
@@ -51,13 +51,13 @@ class Steven:
 
 <div align="center">
 
-### Languages I Work With
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-4B275F?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,13 +100,56 @@ class Steven:
 
 ## 🎮 Game Zone
 
-> *Take a break. Play a game. Right here in my README.*
+> *Take a break and play some games — right here on my profile.*
 
 ---
 
-### 🐍 Game 1 — Python Output Challenge
+<!-- CHESS:START -->
+<div align="center">
 
-**Can you guess the output? Click to reveal!**
+### ♟️ Community Chess — Play With Me!
+
+> **Anyone on GitHub can play!** Pick a move below — it opens a GitHub Issue, and the board auto-updates.
+
+|   | a | b | c | d | e | f | g | h |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| **6** | · | · | · | · | · | · | · | · |
+| **5** | · | · | · | · | · | · | · | · |
+| **4** | · | · | · | · | · | · | · | · |
+| **3** | · | · | · | · | · | · | · | · |
+| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+**Turn:** ⬜ White | **Moves:** 0
+
+<details>
+<summary>🎯 <b>Click to make a move</b> (20 available)</summary>
+<br/>
+
+[`a3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ca2a3&body=Playing+move:+a3) · [`a4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ca2a4&body=Playing+move:+a4) · [`b3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb2b3&body=Playing+move:+b3) · [`b4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb2b4&body=Playing+move:+b4) · [`c3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cc2c3&body=Playing+move:+c3) · [`c4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cc2c4&body=Playing+move:+c4) · [`d3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cd2d3&body=Playing+move:+d3) · [`d4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cd2d4&body=Playing+move:+d4) · [`e3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ce2e3&body=Playing+move:+e3) · [`e4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ce2e4&body=Playing+move:+e4) · [`f3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cf2f3&body=Playing+move:+f3) · [`f4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cf2f4&body=Playing+move:+f4) · [`g3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg2g3&body=Playing+move:+g3) · [`g4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg2g4&body=Playing+move:+g4) · [`h3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ch2h3&body=Playing+move:+h3) · [`h4`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Ch2h4&body=Playing+move:+h4) · [`Na3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb1a3&body=Playing+move:+Na3) · [`Nc3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cb1c3&body=Playing+move:+Nc3) · [`Nf3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg1f3&body=Playing+move:+Nf3) · [`Nh3`](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/issues/new?title=chess%7Cg1h3&body=Playing+move:+Nh3)
+
+</details>
+
+</div>
+<!-- CHESS:END -->
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+> My contribution graph, but a snake is eating it. Run the [workflow manually](https://github.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/actions/workflows/snake.yml) to generate!
+
+</div>
+
+---
+
+### 🧩 Quick Code Quiz
+
+**Can you guess the output?**
 
 ```python
 x = [1, 2, 3]
@@ -116,15 +159,14 @@ print(len(x))
 ```
 
 <details>
-<summary>🤔 What's the output? Click here...</summary>
+<summary>🤔 Click to reveal answer</summary>
 <br/>
 
 ✅ **Answer: `4`**
 
 `y = x` doesn't make a copy — both point to the same list.
-When you append to `y`, `x` changes too.
 
-> Welcome to Python. Where `=` doesn't always mean what you think. 😏
+> Welcome to Python, where `=` isn't always what you think. 😏
 
 </details>
 
@@ -134,21 +176,16 @@ When you append to `y`, `x` changes too.
 def mystery(n):
     return n & (n - 1) == 0
 
-print(mystery(16))
-print(mystery(12))
+print(mystery(16), mystery(12))
 ```
 
 <details>
-<summary>🤔 What does it print? Click here...</summary>
+<summary>🤔 Click to reveal answer</summary>
 <br/>
 
-✅ **Answer:**
-```
-True
-False
-```
+✅ **Answer: `True False`**
 
-This checks if a number is a **power of 2**. The bitwise trick `n & (n-1)` clears the lowest set bit — powers of 2 have exactly one set bit!
+Checks if a number is a **power of 2** using bit manipulation. Powers of 2 have exactly one `1` bit.
 
 > Hardware engineers love this one. 😎
 
@@ -156,145 +193,35 @@ This checks if a number is a **power of 2**. The bitwise trick `n & (n-1)` clear
 
 ---
 
-```python
-a = "VHDL"
-b = "Verilog"
-print(f"{a} {'>' if len(a) < len(b) else '<'} {b}")
+```
+Q: In Verilog, what does 'wire' represent?
+   a) Storage element   b) Continuous connection
+   c) Clock signal      d) Memory block
 ```
 
 <details>
-<summary>🤔 Guess? Click here...</summary>
+<summary>💡 Click to reveal answer</summary>
 <br/>
 
-✅ **Answer: `VHDL > Verilog`**
+✅ **b) Continuous connection**
 
-Wait… `len("VHDL")` is `4` and `len("Verilog")` is `7`, so `4 < 7` is `True`, printing `>`.
+`wire` carries data between components — it doesn't store it.
 
-> Plot twist: VHDL wins this one. But in real life, I use both. No wars here. ⚖️
-
-</details>
-
----
-
-### ⚡ Game 2 — Digital Logic Challenge
-
-**Can you solve these?**
-
-```
-Q1: What gate outputs 1 ONLY when both inputs are 1?
-    a) OR    b) AND    c) XOR    d) NAND
-```
-
-<details>
-<summary>💡 Answer</summary>
-<br/>
-
-✅ **b) AND gate**
-
-```
-A | B | OUT
-0 | 0 |  0
-0 | 1 |  0
-1 | 0 |  0
-1 | 1 |  1  ← only here
-```
-
-> The AND gate — simple, reliable, and the foundation of everything. 🔌
+> Like a highway: cars pass through, but the road doesn't remember them. 🛣️
 
 </details>
-
----
-
-```
-Q2: How many bits are needed to represent the number 255?
-    a) 7    b) 8    c) 9    d) 16
-```
-
-<details>
-<summary>💡 Answer</summary>
-<br/>
-
-✅ **b) 8 bits**
-
-`255 = 11111111` in binary. That's 8 ones. A full byte.
-
-> Fun fact: 255 is the maximum value of a single byte — which is why RGB color values max out at 255. 🎨
-
-</details>
-
----
-
-```
-Q3: In Verilog, what does 'wire' represent?
-    a) A storage element
-    b) A continuous assignment connection
-    c) A clock signal
-    d) A memory block
-```
-
-<details>
-<summary>💡 Answer</summary>
-<br/>
-
-✅ **b) A continuous assignment connection**
-
-`wire` represents a physical connection between components — it doesn't store data, it just carries it.
-
-> Think of it like a highway. Cars (data) pass through, but the road doesn't remember them. 🛣️
-
-</details>
-
----
-
-### 🧭 Game 3 — Choose Your Tech Path
-
-> *You're at a crossroads. Pick wisely.*
-
-**🔀 You have a neural network that's too slow. What do you do?**
-
-[🅰️ Optimize the algorithm](#-path-a--the-optimizer) &nbsp;&nbsp; [🅱️ Build better hardware](#-path-b--the-architect) &nbsp;&nbsp; [🅾️ Both!](#-path-c--the-full-stack-engineer)
-
----
-
-#### ⚙️ Path A — The Optimizer
-You dive into **model pruning, quantization, and efficient architectures.**
-You make the model 10x smaller. It runs on a phone now.
-
-> *Great choice — but what if the hardware was smarter too?*
-
-🔗 *[Try again](#-you-have-a-neural-network-thats-too-slow-what-do-you-do)*
-
----
-
-#### 🏗️ Path B — The Architect
-You design a **custom AI accelerator chip** in Verilog.
-Massive parallelism. Dedicated matrix multiply units.
-
-> *The hardware screams — but the model is still bloated.*
-
-🔗 *[Try again](#-you-have-a-neural-network-thats-too-slow-what-do-you-do)*
-
----
-
-#### 🚀 Path C — The Full-Stack Engineer
-You optimize the algorithm AND design the silicon.
-The model is lean. The chip is purpose-built. Together? **Unstoppable.**
-
-> This is Steven's path. Welcome. 😎
-
-🔗 *[Play again](#-you-have-a-neural-network-thats-too-slow-what-do-you-do)*
 
 ---
 
 ## 🎯 Goals
 
 ```
- ╔═══════════════════════════════════════════════════════════╗
- ║  NOW     → Master Python, VHDL, Verilog fundamentals     ║
- ║  SOON    → Deep learning + FPGA-based AI acceleration    ║
- ║  LATER   → Semiconductor R&D internship / research       ║
- ║  VISION  → Engineer the chip that powers the next GPT    ║
- ╚═══════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════╗
+ ║  NOW    → Master Python, VHDL, Verilog               ║
+ ║  SOON   → Deep Learning + FPGA-based AI acceleration ║
+ ║  LATER  → Semiconductor R&D / research position      ║
+ ║  VISION → Engineer the chip that powers the next AI   ║
+ ╚═══════════════════════════════════════════════════════╝
 ```
 
 ---
