@@ -100,9 +100,9 @@ My ultimate goal is to become a *Full-Stack Hardware-Software Engineer*—unders
 
 <!-- This relies on the Platane/snk GitHub Action generating the SVG into the 'output' branch -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-light-v2.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark-v2.svg" width="100%" />
 </picture>
 
 </div>
