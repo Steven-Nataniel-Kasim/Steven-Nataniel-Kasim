@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- AESTHETIC BANNER / HEADER -->
-<!-- Using a high-quality open-source futuristic tech GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd3bWN6M3k1Y3BheWhkYzJ1aXcwajdqejdpazMyc3VpcW1hbTVxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Futuristic Tech Banner" width="100%" style="border-radius:12px; margin-bottom: 15px;"/>
-
 <a href="https://github.com/Steven-Nataniel-Kasim">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello!+I'm+Steven+Nataniel+Kasim;AI+%26+Semiconductor+Engineering+Student;Bridging+Software+Intelligence+with+Hardware;Crafting+Logic+with+VHDL+%26+Verilog;Building+Intelligent+Systems+with+Python" alt="Typing SVG" />
 </a>
@@ -42,12 +38,36 @@ My ultimate goal is to become a *Full-Stack Hardware-Software Engineer*—unders
 
 <div align="center">
 
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Hardware & Semiconductor
 ![VHDL](https://img.shields.io/badge/VHDL-4B275F?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0078D4?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### AI, Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Antigravity](https://img.shields.io/badge/import-antigravity-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -66,11 +86,7 @@ My ultimate goal is to become a *Full-Stack Hardware-Software Engineer*—unders
 
 </div>
 
----
-
-## 🐍 Activity Graph (Snake Game)
-
-> Watch the snake eat my GitHub contributions!
+<br/>
 
 <div align="center">
 
@@ -78,7 +94,7 @@ My ultimate goal is to become a *Full-Stack Hardware-Software Engineer*—unders
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" width="100%" />
+  <img alt="" src="https://raw.githubusercontent.com/Steven-Nataniel-Kasim/Steven-Nataniel-Kasim/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
